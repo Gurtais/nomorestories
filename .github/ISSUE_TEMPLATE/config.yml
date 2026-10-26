@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question
+    url: https://github.com/Gurtais/nomorestories/discussions
+    about: Please use GitHub Discussions for general questions and support.
+  - name: Feature request
+    url: https://github.com/Gurtais/nomorestories/issues/new?template=feature_request.yml
+    about: Suggest an idea or improvement for the project.
